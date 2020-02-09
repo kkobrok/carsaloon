@@ -163,7 +163,7 @@ public class CarDealer {
             }
         }
     }
-
+//
     private void feulM(Client client) {
         warn=0;
         while (true) {
